@@ -1,0 +1,2 @@
+scapy[complete]
+colorama

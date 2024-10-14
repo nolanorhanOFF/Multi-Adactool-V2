@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: multi_tool_hacking
+Version: 1.0
+Summary: Multi-tool hacking suite with network scanning features.
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Requires-Dist: scapy[complete]
+Requires-Dist: colorama
